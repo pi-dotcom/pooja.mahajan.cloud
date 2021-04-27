@@ -10,7 +10,7 @@ sitemap:
 # Advanced Data Science Bootcamp
 Projects I have completed in the Data Science Bootcamp at Spiced Academy in Berlin (03-03-2021).
 
-1.  [Animated plots depicting world fertility rate and life expectancy](https://github.com/pi-dotcom/visual_data_analysis)
+1.  [Animated plots depicting world fertility rate and life expectancy](https://pi-dotcom.github.io/visual_data_analysis/)
 2.  [Classification of passenger survival on the Titanic](https://github.com/pi-dotcom/Project_Classification)
 3.  [Prediction of bike sharing demand from weather conditions](https://github.com/pi-dotcom/Project_bike_sharing_prediction)
 4.  [Lyrics web-scraper and interactive prediction of an artist from user text input](https://github.com/pi-dotcom/Lyrics_classification)
