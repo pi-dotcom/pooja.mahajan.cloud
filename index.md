@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/pooja.png' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A proficient Data Scientist with a strong knowledge of Python, Data Visualization, ETL pipelines, Machine Learning</p>
+	<p>A proficient Data Scientist with a strong knowledge of Python, Data Visualization, ETL pipelines and Machine Learning</p>
 
 </div>
