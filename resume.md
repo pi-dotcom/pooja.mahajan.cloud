@@ -8,7 +8,7 @@ subtitle: Data Scientist
 <br>
 ### PROFILE
 
-Enthusiastic Data Scientist eager to contribute to team success through hard work attention to detail and excellent organizational skills. Experience of Machine Learning and Data handling using python and SQL. Motivated to work, learn, grow and excel in organization.
+Enthusiastic Data Scientist eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Experience of Machine Learning and Data handling using python and SQL. Motivated to work, learn, grow and excel in organization.
 
 ### SKILLS
 
