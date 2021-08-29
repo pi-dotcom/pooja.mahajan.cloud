@@ -79,6 +79,11 @@ MSBTE Mumbai University,  India <span style="float: right; "></span>
 
 
 ### EXPERIENCE
+Data Engineering Intern - **Affinidi** <span style="float: right; ">Aug 2021 -- Now</span>  
+-  Using AWS services - Kinesis, Glue, Redshift, Quicksight to create cloud native Dashboard
+-  Create Streaming Service which can stream data to AWS Kinesis using Typescript
+-  Coupling above streaming service to different frontend and backend components.
+-  Create AWS Glue scripts to  transfer data to Redshift.
 
 Intensive Data Science Bootcamp - **Spiced Academy** <span style="float: right; ">Jan 2021 -- April 2021</span>  
 -  480 hours of Intensive Data Science Bootcamp Training.
