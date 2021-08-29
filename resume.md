@@ -25,11 +25,18 @@ Enthusiastic Data Scientist eager to contribute to team success through hard wor
     - Scikit-learn
 - <i class="fab fa-docker"></i> **Docker**
     - docker-compose
+- <i class="fab fa-cubes"></i> **Orchestration**
+    - Terraform
     - Kubernetes
 - <i class="fab fa-aws"></i> **AWS**
     - RDS
+    - Redshift
+    - Kinesis Data Streaming
+    - Glue
+    - QuickSight
 - <i class="fas fa-columns"></i> **Dashboard**    
     - Metabase
+    - AWS QuickSight
     - Tableau
 - <i class="fas fa-cube"></i> **3D Modelling**    
     - Autocad
