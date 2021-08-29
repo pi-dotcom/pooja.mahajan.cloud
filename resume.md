@@ -25,7 +25,7 @@ Enthusiastic Data Scientist eager to contribute to team success through hard wor
     - Scikit-learn
 - <i class="fab fa-docker"></i> **Docker**
     - docker-compose
-- <i class="fab fa-boxes"></i> **Orchestration**
+- <i class="fab fa-qrcode"></i> **Orchestration**
     - Terraform
     - Kubernetes
 - <i class="fab fa-aws"></i> **AWS**
