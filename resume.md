@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Résumé
-subtitle: Data Scientist
+subtitle: Data Engineer
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 ### PROFILE
 
-Enthusiastic Data Scientist eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Experience of Data engineering,Machine Learning and Data handling using python and SQL. Motivated to work, learn, grow and excel in organization.
+Enthusiastic Data Engineer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Experience of Data engineering,Machine Learning and Data handling using python and SQL. Motivated to work, learn, grow and excel in organization.
 
 ### SKILLS
 
