@@ -8,12 +8,13 @@ subtitle: Data Scientist
 <br>
 ### PROFILE
 
-Enthusiastic Data Scientist eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Experience of Machine Learning and Data handling using python and SQL. Motivated to work, learn, grow and excel in organization.
+Enthusiastic Data Scientist eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Experience of Data engineering,Machine Learning and Data handling using python and SQL. Motivated to work, learn, grow and excel in organization.
 
 ### SKILLS
 
 - <i class="fab fa-python"></i> **Programming Languages**
     - Python
+    - Typescript
 - <i class="fas fa-database"></i> **Databases**
     - SQL
     - MongoDB
@@ -30,10 +31,15 @@ Enthusiastic Data Scientist eager to contribute to team success through hard wor
     - Kubernetes
 - <i class="fab fa-aws"></i> **AWS**
     - RDS
+    - EC2
     - Redshift
     - Kinesis Data Streaming
     - Glue
     - QuickSight
+    - S3 bucket
+    - Lambda Functions
+    - DynamoDB
+    - CDK
 - <i class="fas fa-columns"></i> **Dashboard**    
     - Metabase
     - AWS QuickSight
@@ -79,11 +85,17 @@ MSBTE Mumbai University,  India <span style="float: right; "></span>
 
 
 ### EXPERIENCE
-Data Engineering Intern - **Affinidi** <span style="float: right; ">Aug 2021 -- Now</span>  
+Data Engineer - **Affinidi** <span style="float: right; ">Oct 2021 -- now</span>  
+-  Data engineering pipeline infrastructure design, implementation, and deployment
+-  Data-driven solutions, covering from experiments to go-to-production.
+-  Onboarding developers to use our data infrastructure (to collect data they want to analyse for their application), this will include proper documentation, and training
+-  Data-related service development such as billing service 
+
+Data Engineering Intern - **Affinidi** <span style="float: right; ">Aug 2021 -- Oct2021</span>  
 -  Using AWS services - Kinesis, Glue, Redshift, Quicksight to create cloud native Dashboard
 -  Create Streaming Service which can stream data to AWS Kinesis using Typescript
 -  Coupling above streaming service to different frontend and backend components.
--  Create AWS Glue scripts to  transfer data to Redshift.
+-  Create AWS Glue scripts to transfer data to Redshift.
 
 Intensive Data Science Bootcamp - **Spiced Academy** <span style="float: right; ">Jan 2021 -- April 2021</span>  
 -  480 hours of Intensive Data Science Bootcamp Training.
